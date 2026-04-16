@@ -1,4 +1,8 @@
-## 👋よろしくね!!!
+## 👋 よろしくね!!!
+
+I'm still totally new to some of this, so I'm basically in a constant state of "Learning Mode" 🐈. 
+
+If you want to talk or just say hi, feel free to reach out!
 
 <!--
 **FridaySummers/FridaySummers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
